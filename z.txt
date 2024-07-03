@@ -1,1 +1,1 @@
-added asternity ui components in the page for that created utils/cn.ts to merge the changes.
+To achieve the dark theme for the dot grid we installed the node next themes. created a theme provider file in app: added the TextGemeratorEffect ui from Aceternity for the animation..last for the show my work we are adding the Aceternity button with the animation.. updated the globals css
