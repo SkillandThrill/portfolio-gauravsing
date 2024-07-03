@@ -1,1 +1,0 @@
-adding another aceternity ui component Bento grid for a header component.. in that bento grid to add the values created the data folder and file to export the info so that there is less code redundancy for the assets adding the updated public folder with images needed for the website
