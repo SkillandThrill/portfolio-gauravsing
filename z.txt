@@ -1,1 +1,1 @@
-To achieve the dark theme for the dot grid we installed the node next themes. created a theme provider file in app: added the TextGemeratorEffect ui from Aceternity for the animation..last for the show my work we are adding the Aceternity button with the animation.. updated the globals css
+adding another aceternity ui component Bento grid for a header component.. in that bento grid to add the values created the data folder and file to export the info so that there is less code redundancy for the assets adding the updated public folder with images needed for the website
