@@ -1,1 +1,1 @@
-made some adjustment in the bento grid to create a good display of the data..
+To ensure a smooth user experience and optimized performance using sentry..
