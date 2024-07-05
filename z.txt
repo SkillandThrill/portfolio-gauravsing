@@ -1,1 +1,0 @@
-Customizing the last grid of the bento grid for that installing a animation package named as lottie to copy the email and initiate the copying functionality created a state and a handleClick on Magic Button with this completed the header section and the bento grid
