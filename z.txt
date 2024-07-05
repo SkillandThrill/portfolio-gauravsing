@@ -1,1 +1,1 @@
-To ensure a smooth user experience and optimized performance using sentry..
+staring off with testimonials section for that adding one more aceternity ui component as infiniteMovingCards to show the feedbacks from the peers and the leads..mapped the values to get added on the page with that finished with the testimonials section.
