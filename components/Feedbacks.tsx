@@ -9,7 +9,7 @@ const Feedbacks = () => {
         What other's wants to say
         <span className='text-purple'> about me</span>
       </h1>
-      <div className='flex flex-col items-center max-lg:mt-10'>
+      <div className='flex flex-col items-center max-lg:mt-10 pt-4'>
             <InfiniteMovingCards
                 items={testimonials}
                 direction='right'
