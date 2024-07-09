@@ -76,7 +76,7 @@ export const projects = [
     des: "The Todo List Application is a dynamic and responsive task management tool built using Next.js, React, and Tailwind CSS. It provides a seamless and efficient way to manage your daily tasks, offering full CRUD (Create, Read, Update, Delete) functionality.This application ensures that users can easily keep track of their tasks, update their progress, and maintain an organized workflow.",
     img: "/todo.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],
-    link: "https://github.com/GauravR02/todo-list-crud",
+    link: "/github.com/GauravR02/todo-list-crud",
   },
   {
     id: 2,
@@ -84,17 +84,17 @@ export const projects = [
     des: "The V-rooms Application is a comprehensive web meeting solution designed to facilitate seamless virtual meetings and video conferencing. Built using Next.js, React, and Tailwind CSS, this application leverages the GetStream API for high-quality video streaming and ClerkAuth for secure authentication. The app is tailored to provide users with a robust and user-friendly platform for hosting and joining virtual meetings.",
     img: "/vroom.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "https://geekyy-v-rooms-dev.vercel.app/",
-  },
+    link: "/https://geekyy-v-rooms-dev.vercel.app/",
+   },
   {
     id: 3,
     title: "Budget-Tracker",
     des: "A Budget tracker application includes a dashboard page. Creating a transaction is easy with the simple form and category options, history section which is able to show the transactions month and year wise to locate the exact transaction  and add the expenses category wise. Transaction page shows the logs and on manage page users can switch the currencies",
     img: "/expense.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "",
+    link: "/github.com/GauravR02/budget-tracker",
   },
-  // {
+  //  {
   //   id: 4,
   //   title: "Animated Apple Iphone 3D Website",
   //   des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
@@ -173,8 +173,8 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Customer Service Associate",
-    desc: "Responsible for managing a portfolio of overdue accounts and negotiating payment arrangements with customers.",
+    title: "Customer Service Executive",
+    desc: "Responsible for managing a portfolio of overdue accounts and negotiating payment arrangements with customers.  Utilized CRM tools to track customer interactions and update account information.  Met monthly targets for debt collection while maintaining compliance with regulations and company policies.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
