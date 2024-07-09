@@ -76,7 +76,7 @@ export const projects = [
     des: "The Todo List Application is a dynamic and responsive task management tool built using Next.js, React, and Tailwind CSS. It provides a seamless and efficient way to manage your daily tasks, offering full CRUD (Create, Read, Update, Delete) functionality.This application ensures that users can easily keep track of their tasks, update their progress, and maintain an organized workflow.",
     img: "/todo.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],
-    link: "/github.com/GauravR02/todo-list-crud",
+    link: "https://github.com/GauravR02/todo-list-crud",
   },
   {
     id: 2,
@@ -84,7 +84,7 @@ export const projects = [
     des: "The V-rooms Application is a comprehensive web meeting solution designed to facilitate seamless virtual meetings and video conferencing. Built using Next.js, React, and Tailwind CSS, this application leverages the GetStream API for high-quality video streaming and ClerkAuth for secure authentication. The app is tailored to provide users with a robust and user-friendly platform for hosting and joining virtual meetings.",
     img: "/vroom.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/https://geekyy-v-rooms-dev.vercel.app/",
+    link: "https://geekyy-v-rooms-dev.vercel.app/",
    },
   {
     id: 3,
@@ -92,7 +92,7 @@ export const projects = [
     des: "A Budget tracker application includes a dashboard page. Creating a transaction is easy with the simple form and category options, history section which is able to show the transactions month and year wise to locate the exact transaction  and add the expenses category wise. Transaction page shows the logs and on manage page users can switch the currencies",
     img: "/expense.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/github.com/GauravR02/budget-tracker",
+    link: "",
   },
   //  {
   //   id: 4,
@@ -205,13 +205,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"https://github.com/GauravR02"
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"https://x.com/GauravR_0203"
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"https://www.linkedin.com/in/gauravsingrajput/"
   },
 ];
